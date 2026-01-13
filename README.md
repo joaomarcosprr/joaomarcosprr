@@ -6,9 +6,12 @@
 
 ## 👋 Olá, eu sou João Marcos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomarcosprr&show_icons=true&theme=radical)
+![Commits](https://img.shields.io/github/commit-activity/y/joaomarcosprr/joaomarcosprr?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/joaomarcosprr?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/joaomarcosprr?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosprr&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=joaomarcosprr&theme=radical)
+
 
 
 ---
